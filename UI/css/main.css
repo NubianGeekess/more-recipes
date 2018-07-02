@@ -1,7 +1,16 @@
 .register {
   margin: 50px auto;
 }
+
 .register-form {
   margin: 50px auto;
   max-width: 40vw;
+}
+
+.form-messages {
+  display: none;
+}
+
+.form-messages.active {
+  display: block;
 }
