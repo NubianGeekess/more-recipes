@@ -1,0 +1,90 @@
+
+body{
+    font-family: 'Galada', cursive;
+    padding: 0px;
+    margin: 0px;
+    background: #cccc;
+    margin: auto;
+}
+
+section{
+    margin: 0 auto;
+    width: 100%;
+    height: 100%;
+    background-color: #D499B9;
+
+}
+
+section .caption{
+    width: 100%;
+    height: 100%;
+    border-bottom: 2px solid #2E294E;
+    margin-top: 0px;
+}
+
+section .caption img{
+    width: 100%;
+    height: 100%;
+    opacity: .7;
+}
+
+.form{
+    width:30%;
+    height: 60%;
+    background-color: blanchedalmond;
+    position: absolute;
+    float: left;
+    margin-top:-500px;
+    margin-left: 800px;
+    border-radius:5px;
+    opacity: .7;
+}
+
+.form input{
+    height: 40px;
+    width:80%;
+    margin-left: 40px;
+    margin-top: 50px;
+    font-weight:bold;
+    padding: 5px;
+}
+
+#button{
+    width: 50%;
+    background: #534847;
+    border-radius: 2px;
+    padding: 5px;
+    margin-left: 100px;
+    margin-top: 20px;
+    height: 40px;
+}
+
+#button a{
+    display: block;
+    width:100%;
+    line-height: 2em;
+    text-align: center;
+    text-decoration:none;
+    border-radius: 5px;
+    color:white;
+    font-size: 14px;
+}
+
+p{
+    margin-left: 150px;
+    margin-top:10px;
+}
+
+.sidecaps{
+    position: absolute;
+    top:250px;
+    left: 100px;
+    width: 400px;
+    height: 400px;
+    color:black;
+}
+
+.sidecaps h1{
+    font-size:80px;
+    font-weight: bold;
+}
