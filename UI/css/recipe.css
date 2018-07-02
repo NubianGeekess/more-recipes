@@ -1,0 +1,14 @@
+.background {
+  background: url('../images/recipe.jpg') no-repeat;
+  height: 100vh;
+}
+.container {
+  margin: 0 auto;
+  background-color: rgba(250, 237, 218, 0.5);
+  width: 30vw;
+  height: 100%;
+}
+.register-form {
+  margin: 30px auto;
+  max-width: 40vw;
+}
